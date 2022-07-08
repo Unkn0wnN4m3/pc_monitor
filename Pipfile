@@ -9,6 +9,7 @@ psutil = "~=5.9"
 [dev-packages]
 yapf = "*"
 mypy = "*"
+pytest = "~=7.1"
 
 [requires]
 python_version = "3.9"
